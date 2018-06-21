@@ -1,0 +1,14 @@
+C:\Users\Julio. De Buen\source\repos\WcfService1\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\Julio. De Buen\source\repos\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Julio. De Buen\source\repos\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\Julio. De Buen\source\repos\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\Julio. De Buen\source\repos\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\Julio. De Buen\source\repos\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Julio. De Buen\source\repos\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Julio. De Buen\source\repos\WcfService1\WcfService1\bin\Newtonsoft.Json.dll
+C:\Users\Julio. De Buen\source\repos\WcfService1\WcfService1\bin\Newtonsoft.Json.xml
+C:\Users\Julio. De Buen\source\repos\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\Julio. De Buen\source\repos\WcfService1\WcfService1\bin\Google.Protobuf.dll
+C:\Users\Julio. De Buen\source\repos\WcfService1\WcfService1\bin\MySql.Data.dll
+C:\Users\Julio. De Buen\source\repos\WcfService1\WcfService1\bin\Google.Protobuf.xml
+C:\Users\Julio. De Buen\source\repos\WcfService1\WcfService1\bin\MySql.Data.xml
